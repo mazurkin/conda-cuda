@@ -1,4 +1,4 @@
-# Pytorch environment makefile
+# CUDA environment makefile
 #
 # https://swcarpentry.github.io/make-novice/reference.html
 # https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
