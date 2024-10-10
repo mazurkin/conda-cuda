@@ -70,7 +70,9 @@ ldd (Ubuntu GLIBC 2.35-0ubuntu3.8) 2.35
 - https://anaconda.org/anaconda/cudnn/files
 - https://anaconda.org/main/cudnn/files
 
-## nvcc samples
+## samples
+
+### nvcc samples
 
 - https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/
 - https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/solutions/vector_add.cu
@@ -80,7 +82,7 @@ $ nvcc samples/vector_add.cu -o samples/target/vector_add
 $ samples/target/vector_add
 ```
 
-## cudnn sample
+### cudnn sample
 
 - https://github.com/Hardware-Alchemy/cuDNN-sample/tree/master/home-made
 
