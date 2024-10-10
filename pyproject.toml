@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "cuda-environment"
+version = "0.1.0"
+description = "cuda environment"
+authors = ["Nick Mazurkin <mazurkin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.12"
+
+[tool.poetry.group.tensorflow.dependencies]
+tensorrt = "10.5.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
